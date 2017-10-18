@@ -1,0 +1,9 @@
+ 1003  ./offline-work.sh 
+ 1004  mkdir abc
+ 1005  touch karan amar raj
+ 1006  echo karan > karan
+ 1007  echo amar > amar
+ 1008  echo raj > raj
+ 1009  cat karan
+ 1010  touch abc/rty
+ 1011  ./commit-work.sh 
